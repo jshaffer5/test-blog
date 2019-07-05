@@ -1,0 +1,13 @@
+{
+    "name": "js/wordpress-blog",
+    "description": "my blog",
+    "authors": [
+        {
+            "name": "js",
+            "email": "joshtwoone@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.3"
+    }
+}
